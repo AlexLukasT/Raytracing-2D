@@ -5,4 +5,4 @@ Mirrored light rays are colored in blue to distinguish them from normal ones.
 This project was heavily inspired by [The Coding Train](https://thecodingtrain.com/), especially his [video on raytracing](https://www.youtube.com/watch?v=TOEi6T2mtHo)  
 To run the code just open `index.html` in a webbrowser.
 
-![](https://imgur.com/a/UrtK5Hz)
+![Imgur](https://imgur.com/0xrcLg1.png)
